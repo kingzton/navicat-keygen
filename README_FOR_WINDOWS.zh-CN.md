@@ -2,7 +2,7 @@
 
 ## 如何使用这个注册机
 
-1. [从这里](https://github.com/DoubleLabyrinth/navicat-keygen/releases)下载最新的release。
+1. [从这里](https://github.com/kingzton/navicat-keygen/releases)下载最新的release。
 
 2. 使用`navicat-patcher.exe`替换掉`navicat.exe`和`libcc.dll`里的Navicat激活公钥。 
 
