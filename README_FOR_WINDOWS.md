@@ -4,7 +4,7 @@
 
 ## How to use?
 
-1. Download the latest release [from here](https://github.com/DoubleLabyrinth/navicat-keygen/releases).
+1. Download the latest release [from here](https://github.com/kingzton/navicat-keygen/releases).
 
 2. Use `navicat-patcher.exe` to replace __Navicat Activation Public Key__ that is stored in `navicat.exe` or `libcc.dll`.
    
